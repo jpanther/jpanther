@@ -11,12 +11,6 @@
 #### 👨🏻‍🎓 What I'm currently learning
 - [LaTeX](https://www.latex-project.org)
 
-#### 🌱 My latest projects
-
-- [jpanther/github-stats](https://github.com/jpanther/github-stats) - 
-- [jpanther/congo](https://github.com/jpanther/congo) - A simple, lightweight theme for Hugo built with Tailwind CSS.
-- [jpanther/nest-graphql-interface-issue](https://github.com/jpanther/nest-graphql-interface-issue) - 
-
 #### 🔭 Latest releases I've contributed to
 
 - [jpanther/congo](https://github.com/jpanther/congo) ([v1.2.0](https://github.com/jpanther/congo/releases/tag/v1.2.0), 3 days ago) - A simple, lightweight theme for Hugo built with Tailwind CSS.
@@ -30,10 +24,6 @@
 
 #### 📜 My recent blog posts
 
-- [About](https://www.jamespanther.com/about/) (3 weeks ago)
-- [Things I use](https://www.jamespanther.com/uses/) (3 weeks ago)
 - [I switched from Google Analytics to Fathom Analytics](https://www.jamespanther.com/writings/i-switched-from-google-analytics-to-fathom-analytics/) (1 year ago)
-
-#### 💬 Feedback
-
-If you use one of my projects, I'd love to hear from you! Let me know what you liked and what needs to be improved. Got an issue? Open a ticket, I don't bite and will try my best to help!
+- [Using Keybase Webhooks with Civilization VI and Glitch](https://www.jamespanther.com/writings/using-keybase-webhooks-with-civilization-vi/) (1 year ago)
+- [Signing GitHub commits using Keybase](https://www.jamespanther.com/writings/signing-github-commits-using-keybase/) (2 years ago)
