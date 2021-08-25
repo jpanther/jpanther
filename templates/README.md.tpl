@@ -8,11 +8,6 @@
 #### 👨🏻‍🎓 What I'm currently learning
 - [LaTeX](https://www.latex-project.org)
 
-#### 🌱 My latest projects
-{{range recentRepos 3}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-
 #### 🔭 Latest releases I've contributed to
 {{range recentReleases 3}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
@@ -24,10 +19,6 @@
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://www.jamespanther.com/index.xml" 3}}
+{{range rss "https://www.jamespanther.com/writings/index.xml" 3}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
-
-#### 💬 Feedback
-
-If you use one of my projects, I'd love to hear from you! Let me know what you liked and what needs to be improved. Got an issue? Open a ticket, I don't bite and will try my best to help!
