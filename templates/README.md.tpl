@@ -5,7 +5,7 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 👨🏻‍🎓 What I'm currently learning
+#### 🌱 What I'm currently learning
 - [LaTeX](https://www.latex-project.org)
 
 #### 🔭 Latest releases I've contributed to
