@@ -24,6 +24,6 @@
 
 #### 📜 My recent blog posts
 
-- [I switched from Google Analytics to Fathom Analytics](https://www.jamespanther.com/writings/i-switched-from-google-analytics-to-fathom-analytics/) (1 year ago)
-- [Using Keybase Webhooks with Civilization VI and Glitch](https://www.jamespanther.com/writings/using-keybase-webhooks-with-civilization-vi/) (1 year ago)
-- [Signing GitHub commits using Keybase](https://www.jamespanther.com/writings/signing-github-commits-using-keybase/) (2 years ago)
+- [I switched from Google Analytics to Fathom Analytics](/writings/i-switched-from-google-analytics-to-fathom-analytics/) (1 year ago)
+- [Using Keybase Webhooks with Civilization VI and Glitch](/writings/using-keybase-webhooks-with-civilization-vi/) (1 year ago)
+- [Signing GitHub commits using Keybase](/writings/signing-github-commits-using-keybase/) (2 years ago)
