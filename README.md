@@ -3,12 +3,12 @@
 #### 👷 Check out what I'm currently working on
 
 - [jpanther/congo](https://github.com/jpanther/congo) - A simple, lightweight theme for Hugo built with Tailwind CSS. (today)
-- [jpanther/www](https://github.com/jpanther/www) - My personal website (today)
-- [jpanther/github-stats](https://github.com/jpanther/github-stats) -  (1 day ago)
+- [jpanther/www](https://github.com/jpanther/www) - My personal website. (today)
+- [jpanther/github-stats](https://github.com/jpanther/github-stats) - GitHub stats visualisation. (1 day ago)
 - [jpanther/dectorio](https://github.com/jpanther/dectorio) - Dectorio is a large mod that adds decorative elements to Factorio. (1 month ago)
 - [jpanther/nest-graphql-interface-issue](https://github.com/jpanther/nest-graphql-interface-issue) -  (5 months ago)
 
-#### 👨🏻‍🎓 What I'm currently learning
+#### 🌱 What I'm currently learning
 - [LaTeX](https://www.latex-project.org)
 
 #### 🔭 Latest releases I've contributed to
