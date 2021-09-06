@@ -5,8 +5,8 @@
 - [jpanther/www](https://github.com/jpanther/www) - My personal website. (5 days ago)
 - [jpanther/congo](https://github.com/jpanther/congo) - A simple, lightweight theme for Hugo built with Tailwind CSS. (1 week ago)
 - [jpanther/github-stats](https://github.com/jpanther/github-stats) - GitHub stats visualisation. (1 week ago)
+- [stackbit/jamstackthemes](https://github.com/stackbit/jamstackthemes) - A list of themes and starters for JAMstack sites. (2 weeks ago)
 - [jpanther/dectorio](https://github.com/jpanther/dectorio) - Dectorio is a large mod that adds decorative elements to Factorio. (1 month ago)
-- [jpanther/nest-graphql-interface-issue](https://github.com/jpanther/nest-graphql-interface-issue) -  (6 months ago)
 
 #### 🌱 What I'm currently learning
 - [LaTeX](https://www.latex-project.org)
