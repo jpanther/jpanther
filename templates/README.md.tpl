@@ -19,6 +19,6 @@
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://www.jamespanther.com/writings/index.xml" 3}}
+{{range rss "https://jamespanther.com/writings/index.xml" 3}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
