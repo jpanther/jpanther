@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jpanther/dectorio](https://github.com/jpanther/dectorio) - Dectorio is a large mod that adds decorative elements to Factorio. (5 days ago)
-- [jpanther/github-stats](https://github.com/jpanther/github-stats) - GitHub stats visualisation. (6 days ago)
-- [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) - The source for https://themes.gohugo.io (6 days ago)
+- [jpanther/dectorio](https://github.com/jpanther/dectorio) - Dectorio is a large mod that adds decorative elements to Factorio. (6 days ago)
+- [jpanther/github-stats](https://github.com/jpanther/github-stats) - GitHub stats visualisation. (1 week ago)
+- [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) - The source for https://themes.gohugo.io (1 week ago)
 - [jpanther/congo](https://github.com/jpanther/congo) - A simple, lightweight theme for Hugo built with Tailwind CSS. (2 weeks ago)
 - [stackbit/jamstackthemes](https://github.com/stackbit/jamstackthemes) - A list of themes and starters for JAMstack sites. (3 weeks ago)
 
@@ -13,13 +13,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jpanther/dectorio](https://github.com/jpanther/dectorio) ([v0.12.5](https://github.com/jpanther/dectorio/releases/tag/v0.12.5), 5 days ago) - Dectorio is a large mod that adds decorative elements to Factorio.
+- [jpanther/dectorio](https://github.com/jpanther/dectorio) ([v0.12.5](https://github.com/jpanther/dectorio/releases/tag/v0.12.5), 6 days ago) - Dectorio is a large mod that adds decorative elements to Factorio.
 - [jpanther/congo](https://github.com/jpanther/congo) ([v1.2.1](https://github.com/jpanther/congo/releases/tag/v1.2.1), 2 weeks ago) - A simple, lightweight theme for Hugo built with Tailwind CSS.
 
 #### 🔨 My recent Pull Requests
 
 - [Add Congo theme for Hugo](https://github.com/stackbit/jamstackthemes/pull/250) on [stackbit/jamstackthemes](https://github.com/stackbit/jamstackthemes) (3 weeks ago)
-- [Add Congo theme](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/69) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (3 weeks ago)
+- [Add Congo theme](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/69) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (4 weeks ago)
 - [New Crowdin updates](https://github.com/jpanther/dectorio/pull/194) on [jpanther/dectorio](https://github.com/jpanther/dectorio) (8 months ago)
 
 #### 📜 My recent blog posts
