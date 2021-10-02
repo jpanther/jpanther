@@ -18,9 +18,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [New Crowdin updates](https://github.com/jpanther/dectorio/pull/209) on [jpanther/dectorio](https://github.com/jpanther/dectorio) (today)
 - [Add Congo theme for Hugo](https://github.com/stackbit/jamstackthemes/pull/250) on [stackbit/jamstackthemes](https://github.com/stackbit/jamstackthemes) (1 month ago)
 - [Add Congo theme](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/69) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (1 month ago)
-- [New Crowdin updates](https://github.com/jpanther/dectorio/pull/194) on [jpanther/dectorio](https://github.com/jpanther/dectorio) (9 months ago)
 
 #### 📜 My recent blog posts
 
