@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jpanther/congo](https://github.com/jpanther/congo) - A simple, lightweight theme for Hugo built with Tailwind CSS. (2 days ago)
+- [jpanther/congo](https://github.com/jpanther/congo) - A simple, lightweight theme for Hugo built with Tailwind CSS. (3 days ago)
 - [jpanther/dectorio](https://github.com/jpanther/dectorio) - Dectorio is a large mod that adds decorative elements to Factorio. (3 weeks ago)
 - [jpanther/github-stats](https://github.com/jpanther/github-stats) - GitHub stats visualisation. (3 weeks ago)
 - [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) - The source for https://themes.gohugo.io (3 weeks ago)
@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jpanther/congo](https://github.com/jpanther/congo) ([v1.3.0](https://github.com/jpanther/congo/releases/tag/v1.3.0), 2 days ago) - A simple, lightweight theme for Hugo built with Tailwind CSS.
+- [jpanther/congo](https://github.com/jpanther/congo) ([v1.3.0](https://github.com/jpanther/congo/releases/tag/v1.3.0), 3 days ago) - A simple, lightweight theme for Hugo built with Tailwind CSS.
 - [jpanther/dectorio](https://github.com/jpanther/dectorio) ([v0.12.5](https://github.com/jpanther/dectorio/releases/tag/v0.12.5), 3 weeks ago) - Dectorio is a large mod that adds decorative elements to Factorio.
 
 #### 🔨 My recent Pull Requests
@@ -25,5 +25,5 @@
 #### 📜 My recent blog posts
 
 - [I switched from Google Analytics to Fathom Analytics](https://jamespanther.com/writings/i-switched-from-google-analytics-to-fathom-analytics/) (1 year ago)
-- [Using Keybase Webhooks with Civilization VI and Glitch](https://jamespanther.com/writings/using-keybase-webhooks-with-civilization-vi/) (1 year ago)
+- [Using Keybase Webhooks with Civilization VI and Glitch](https://jamespanther.com/writings/using-keybase-webhooks-with-civilization-vi/) (2 years ago)
 - [Signing GitHub commits using Keybase](https://jamespanther.com/writings/signing-github-commits-using-keybase/) (2 years ago)
