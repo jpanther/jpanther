@@ -19,9 +19,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add Lynx theme for Hugo](https://github.com/stackbit/jamstackthemes/pull/266) on [stackbit/jamstackthemes](https://github.com/stackbit/jamstackthemes) (today)
 - [Add Lynx theme](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/86) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (today)
 - [New Crowdin updates](https://github.com/jpanther/dectorio/pull/209) on [jpanther/dectorio](https://github.com/jpanther/dectorio) (1 month ago)
-- [Add Congo theme for Hugo](https://github.com/stackbit/jamstackthemes/pull/250) on [stackbit/jamstackthemes](https://github.com/stackbit/jamstackthemes) (2 months ago)
 
 #### 📜 My recent blog posts
 
