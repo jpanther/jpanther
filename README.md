@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jpanther/lynx](https://github.com/jpanther/lynx) -  (today)
+- [jpanther/lynx](https://github.com/jpanther/lynx) - A simple links theme for Hugo built with Tailwind CSS. (today)
 - [jpanther/congo](https://github.com/jpanther/congo) - A simple, lightweight theme for Hugo built with Tailwind CSS. (3 days ago)
 - [jpanther/dectorio](https://github.com/jpanther/dectorio) - Dectorio is a large mod that adds decorative elements to Factorio. (1 week ago)
 - [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) - The source for https://themes.gohugo.io (1 month ago)
@@ -13,14 +13,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jpanther/lynx](https://github.com/jpanther/lynx) ([v1.0.0](https://github.com/jpanther/lynx/releases/tag/v1.0.0), today) - A simple links theme for Hugo built with Tailwind CSS.
 - [jpanther/congo](https://github.com/jpanther/congo) ([v1.4.0](https://github.com/jpanther/congo/releases/tag/v1.4.0), 1 week ago) - A simple, lightweight theme for Hugo built with Tailwind CSS.
 - [jpanther/dectorio](https://github.com/jpanther/dectorio) ([v0.12.5](https://github.com/jpanther/dectorio/releases/tag/v0.12.5), 1 month ago) - Dectorio is a large mod that adds decorative elements to Factorio.
 
 #### 🔨 My recent Pull Requests
 
+- [Add Lynx theme](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/86) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (today)
 - [New Crowdin updates](https://github.com/jpanther/dectorio/pull/209) on [jpanther/dectorio](https://github.com/jpanther/dectorio) (1 month ago)
 - [Add Congo theme for Hugo](https://github.com/stackbit/jamstackthemes/pull/250) on [stackbit/jamstackthemes](https://github.com/stackbit/jamstackthemes) (2 months ago)
-- [Add Congo theme](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/69) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (2 months ago)
 
 #### 📜 My recent blog posts
 
