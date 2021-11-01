@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [jpanther/lynx](https://github.com/jpanther/lynx) -  (today)
 - [jpanther/congo](https://github.com/jpanther/congo) - A simple, lightweight theme for Hugo built with Tailwind CSS. (3 days ago)
 - [jpanther/dectorio](https://github.com/jpanther/dectorio) - Dectorio is a large mod that adds decorative elements to Factorio. (1 week ago)
 - [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) - The source for https://themes.gohugo.io (1 month ago)
 - [stackbit/jamstackthemes](https://github.com/stackbit/jamstackthemes) - A list of themes and starters for JAMstack sites. (2 months ago)
-- [jpanther/nest-graphql-interface-issue](https://github.com/jpanther/nest-graphql-interface-issue) -  (7 months ago)
 
 #### 🌱 What I'm currently learning
 - [LaTeX](https://www.latex-project.org)
