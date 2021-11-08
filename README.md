@@ -17,12 +17,6 @@
 - [jpanther/congo](https://github.com/jpanther/congo) ([v1.5.1](https://github.com/jpanther/congo/releases/tag/v1.5.1), 4 days ago) - A simple, lightweight theme for Hugo built with Tailwind CSS.
 - [jpanther/dectorio](https://github.com/jpanther/dectorio) ([v0.12.5](https://github.com/jpanther/dectorio/releases/tag/v0.12.5), 2 months ago) - Dectorio is a large mod that adds decorative elements to Factorio.
 
-#### 🔨 My recent Pull Requests
-
-- [Add Lynx theme for Hugo](https://github.com/stackbit/jamstackthemes/pull/266) on [stackbit/jamstackthemes](https://github.com/stackbit/jamstackthemes) (1 week ago)
-- [Add Lynx theme](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/86) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (1 week ago)
-- [New Crowdin updates](https://github.com/jpanther/dectorio/pull/209) on [jpanther/dectorio](https://github.com/jpanther/dectorio) (1 month ago)
-
 #### 📜 My recent blog posts
 
 - [I switched from Google Analytics to Fathom Analytics](https://jamespanther.com/writings/i-switched-from-google-analytics-to-fathom-analytics/) (1 year ago)
