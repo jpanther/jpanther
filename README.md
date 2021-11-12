@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jpanther/congo](https://github.com/jpanther/congo) - A simple, lightweight theme for Hugo built with Tailwind CSS. (1 day ago)
-- [jpanther/lynx](https://github.com/jpanther/lynx) - A simple links theme for Hugo built with Tailwind CSS. (5 days ago)
+- [jpanther/congo](https://github.com/jpanther/congo) - A simple, lightweight theme for Hugo built with Tailwind CSS. (2 days ago)
+- [jpanther/lynx](https://github.com/jpanther/lynx) - A simple links theme for Hugo built with Tailwind CSS. (6 days ago)
 - [stackbit/jamstackthemes](https://github.com/stackbit/jamstackthemes) - A list of themes and starters for JAMstack sites. (1 week ago)
-- [jpanther/dectorio](https://github.com/jpanther/dectorio) - Dectorio is a large mod that adds decorative elements to Factorio. (2 weeks ago)
+- [jpanther/dectorio](https://github.com/jpanther/dectorio) - Dectorio is a large mod that adds decorative elements to Factorio. (3 weeks ago)
 - [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) - The source for https://themes.gohugo.io (2 months ago)
 
 #### 🌱 What I'm currently learning
@@ -13,8 +13,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jpanther/congo](https://github.com/jpanther/congo) ([v1.5.2](https://github.com/jpanther/congo/releases/tag/v1.5.2), 1 day ago) - A simple, lightweight theme for Hugo built with Tailwind CSS.
-- [jpanther/lynx](https://github.com/jpanther/lynx) ([v1.1.0](https://github.com/jpanther/lynx/releases/tag/v1.1.0), 5 days ago) - A simple links theme for Hugo built with Tailwind CSS.
+- [jpanther/congo](https://github.com/jpanther/congo) ([v1.5.2](https://github.com/jpanther/congo/releases/tag/v1.5.2), 2 days ago) - A simple, lightweight theme for Hugo built with Tailwind CSS.
+- [jpanther/lynx](https://github.com/jpanther/lynx) ([v1.1.0](https://github.com/jpanther/lynx/releases/tag/v1.1.0), 6 days ago) - A simple links theme for Hugo built with Tailwind CSS.
 - [jpanther/dectorio](https://github.com/jpanther/dectorio) ([v0.12.5](https://github.com/jpanther/dectorio/releases/tag/v0.12.5), 2 months ago) - Dectorio is a large mod that adds decorative elements to Factorio.
 
 #### 📜 My recent blog posts
