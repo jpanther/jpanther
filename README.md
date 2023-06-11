@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jpanther/congo](https://github.com/jpanther/congo) - A powerful, lightweight theme for Hugo built with Tailwind CSS. (6 days ago)
-- [jpanther/lynx](https://github.com/jpanther/lynx) - A simple links theme for Hugo built with Tailwind CSS. (6 days ago)
+- [jpanther/congo](https://github.com/jpanther/congo) - A powerful, lightweight theme for Hugo built with Tailwind CSS. (1 week ago)
+- [jpanther/lynx](https://github.com/jpanther/lynx) - A simple links theme for Hugo built with Tailwind CSS. (1 week ago)
 - [jpanther/dectorio](https://github.com/jpanther/dectorio) - Dectorio is a large mod that adds decorative elements to Factorio. (11 months ago)
 - [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) - The source for https://themes.gohugo.io (11 months ago)
 
@@ -12,8 +12,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jpanther/lynx](https://github.com/jpanther/lynx) ([v1.3.0](https://github.com/jpanther/lynx/releases/tag/v1.3.0), 6 days ago) - A simple links theme for Hugo built with Tailwind CSS.
-- [jpanther/congo](https://github.com/jpanther/congo) ([v2.6.1](https://github.com/jpanther/congo/releases/tag/v2.6.1), 6 days ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
+- [jpanther/lynx](https://github.com/jpanther/lynx) ([v1.3.0](https://github.com/jpanther/lynx/releases/tag/v1.3.0), 1 week ago) - A simple links theme for Hugo built with Tailwind CSS.
+- [jpanther/congo](https://github.com/jpanther/congo) ([v2.6.1](https://github.com/jpanther/congo/releases/tag/v2.6.1), 1 week ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 - [jpanther/dectorio](https://github.com/jpanther/dectorio) ([v0.12.6](https://github.com/jpanther/dectorio/releases/tag/v0.12.6), 11 months ago) - Dectorio is a large mod that adds decorative elements to Factorio.
 
 #### 📜 My recent blog posts
