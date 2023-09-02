@@ -10,8 +10,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jpanther/lynx](https://github.com/jpanther/lynx) ([v1.3.0](https://github.com/jpanther/lynx/releases/tag/v1.3.0), 2 months ago) - A simple links theme for Hugo built with Tailwind CSS.
-- [jpanther/congo](https://github.com/jpanther/congo) ([v2.6.1](https://github.com/jpanther/congo/releases/tag/v2.6.1), 2 months ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
+- [jpanther/lynx](https://github.com/jpanther/lynx) ([v1.3.0](https://github.com/jpanther/lynx/releases/tag/v1.3.0), 3 months ago) - A simple links theme for Hugo built with Tailwind CSS.
+- [jpanther/congo](https://github.com/jpanther/congo) ([v2.6.1](https://github.com/jpanther/congo/releases/tag/v2.6.1), 3 months ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 
 #### 📜 My recent blog posts
 
