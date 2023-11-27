@@ -3,8 +3,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [jpanther/congo](https://github.com/jpanther/congo) - A powerful, lightweight theme for Hugo built with Tailwind CSS. (today)
+- [jpanther/lynx](https://github.com/jpanther/lynx) - A simple links theme for Hugo built with Tailwind CSS. (today)
 - [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) - The source for https://themes.gohugo.io (1 day ago)
-- [jpanther/lynx](https://github.com/jpanther/lynx) - A simple links theme for Hugo built with Tailwind CSS. (4 days ago)
 
 #### 🌱 What I'm currently learning
 - [LaTeX](https://www.latex-project.org)
