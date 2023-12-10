@@ -4,14 +4,14 @@
 
 - [jpanther/congo](https://github.com/jpanther/congo) - A powerful, lightweight theme for Hugo built with Tailwind CSS. (today)
 - [jpanther/lynx](https://github.com/jpanther/lynx) - A simple links theme for Hugo built with Tailwind CSS. (today)
-- [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) - The source for https://themes.gohugo.io (1 week ago)
+- [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) - The source for https://themes.gohugo.io (2 weeks ago)
 
 #### 🌱 What I'm currently learning
 - [LaTeX](https://www.latex-project.org)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jpanther/congo](https://github.com/jpanther/congo) ([v2.7.6](https://github.com/jpanther/congo/releases/tag/v2.7.6), 1 week ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
+- [jpanther/congo](https://github.com/jpanther/congo) ([v2.7.6](https://github.com/jpanther/congo/releases/tag/v2.7.6), 2 weeks ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 - [jpanther/lynx](https://github.com/jpanther/lynx) ([v1.3.1](https://github.com/jpanther/lynx/releases/tag/v1.3.1), 3 months ago) - A simple links theme for Hugo built with Tailwind CSS.
 
 #### 📜 My recent blog posts
