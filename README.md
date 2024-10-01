@@ -18,4 +18,4 @@
 
 - [I switched from Google Analytics to Fathom Analytics](https://jamespanther.com/writings/i-switched-from-google-analytics-to-fathom-analytics/) (4 years ago)
 - [Using Keybase Webhooks with Civilization VI and Glitch](https://jamespanther.com/writings/using-keybase-webhooks-with-civilization-vi/) (4 years ago)
-- [Signing GitHub commits using Keybase](https://jamespanther.com/writings/signing-github-commits-using-keybase/) (4 years ago)
+- [Signing GitHub commits using Keybase](https://jamespanther.com/writings/signing-github-commits-using-keybase/) (5 years ago)
