@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jpanther/congo](https://github.com/jpanther/congo) - A powerful, lightweight theme for Hugo built with Tailwind CSS. (3 days ago)
+- [jpanther/congo](https://github.com/jpanther/congo) - A powerful, lightweight theme for Hugo built with Tailwind CSS. (4 days ago)
 - [jpanther/dectorio](https://github.com/jpanther/dectorio) - Dectorio is a large mod that adds decorative elements to Factorio. (4 months ago)
 - [jpanther/lynx](https://github.com/jpanther/lynx) - A simple links theme for Hugo built with Tailwind CSS. (10 months ago)
 
@@ -18,5 +18,5 @@
 #### 📜 My recent blog posts
 
 - [I switched from Google Analytics to Fathom Analytics](https://jamespanther.com/writings/i-switched-from-google-analytics-to-fathom-analytics/) (4 years ago)
-- [Using Keybase Webhooks with Civilization VI and Glitch](https://jamespanther.com/writings/using-keybase-webhooks-with-civilization-vi/) (4 years ago)
+- [Using Keybase Webhooks with Civilization VI and Glitch](https://jamespanther.com/writings/using-keybase-webhooks-with-civilization-vi/) (5 years ago)
 - [Signing GitHub commits using Keybase](https://jamespanther.com/writings/signing-github-commits-using-keybase/) (5 years ago)
