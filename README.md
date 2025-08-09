@@ -10,7 +10,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jpanther/congo](https://github.com/jpanther/congo) ([v2.12.2](https://github.com/jpanther/congo/releases/tag/v2.12.2), 3 weeks ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
+- [jpanther/congo](https://github.com/jpanther/congo) ([v2.12.2](https://github.com/jpanther/congo/releases/tag/v2.12.2), 4 weeks ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 - [jpanther/dectorio](https://github.com/jpanther/dectorio) ([v0.13.1](https://github.com/jpanther/dectorio/releases/tag/v0.13.1), 9 months ago) - Dectorio is a large mod that adds decorative elements to Factorio.
 
 #### 📜 My recent blog posts
