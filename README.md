@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [jpanther/congo](https://github.com/jpanther/congo) - A powerful, lightweight theme for Hugo built with Tailwind CSS. (today)
+- [jpanther/congo](https://github.com/jpanther/congo) - A powerful, lightweight theme for Hugo built with Tailwind CSS. (1 day ago)
 
 #### 🌱 What I'm currently learning
 - [LaTeX](https://www.latex-project.org)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jpanther/congo](https://github.com/jpanther/congo) ([v2.13.0](https://github.com/jpanther/congo/releases/tag/v2.13.0), today) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
+- [jpanther/congo](https://github.com/jpanther/congo) ([v2.13.0](https://github.com/jpanther/congo/releases/tag/v2.13.0), 1 day ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 
 #### 📜 My recent blog posts
 
