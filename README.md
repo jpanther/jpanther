@@ -9,7 +9,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jpanther/congo](https://github.com/jpanther/congo) ([v2.13.0](https://github.com/jpanther/congo/releases/tag/v2.13.0), 2 months ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
+- [jpanther/congo](https://github.com/jpanther/congo) ([v2.13.0](https://github.com/jpanther/congo/releases/tag/v2.13.0), 3 months ago) - A powerful, lightweight theme for Hugo built with Tailwind CSS.
 
 #### 📜 My recent blog posts
 
